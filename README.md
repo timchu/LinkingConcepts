@@ -1,9 +1,11 @@
 # LinkingConcepts
 A very short python script that lets you come up ways to link two concepts.
 
-How to use:
+Download, and either run:
 
->> python make_things_the_same.py
+(1)  python make_things_the_same.py
+or
+(2) python make_things_different.py
 
 Example use case:
 
