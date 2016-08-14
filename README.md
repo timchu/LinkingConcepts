@@ -8,12 +8,16 @@ How to use:
 Example use case:
 
 type in a first item 
->> Ritesh Ragavender
+>  Ritesh Ragavender
+
 type in a second item 
->> tiny hippopotami
+
+> tiny hippopotami
+
 Ritesh Ragavender is same as tiny hippopotami
 because.... 
->> both of them are cute, adorable, and are successful startup founders  in Silicon Valley.
+
+> both of them are cute, adorable, and are successful startup founders  in Silicon Valley.
 
 congratulations! Ritesh Ragavender is same as tiny hippopotami! 
 (....because both of them are cute, adorable, and are successful startup founders  in Silicon Valley.)
