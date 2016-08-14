@@ -9,6 +9,8 @@ or
 
 Example use case:
 
+python make_things_the_same.py
+
 type in a first item 
 >  Ritesh Ragavender
 
